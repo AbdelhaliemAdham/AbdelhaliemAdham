@@ -23,7 +23,11 @@ I'm a Flutter Developer 💻
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+## 🔭 I'm currently working on
+- multi vendor store app with admin panel
+- chat app with reponsive ui
 
+  
 - these are my tools you can use them they are realy helpful
 
 ## 💼 Technical Skills
@@ -42,6 +46,8 @@ I'm a Flutter Developer 💻
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
+
+## 📈 GitHub Stats 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhaliemAdham&show_icons=true)
 
