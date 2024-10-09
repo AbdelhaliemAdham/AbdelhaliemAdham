@@ -7,16 +7,20 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something realy awsome
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: abdo09adham@gmail.com  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- 📫 How to reach me: abdo09adham@gmail.com  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&width="20px")
 
-
+</br>
   
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="Abdelhaliem Adham | LinkedIn" width="21px"/></a>
 </br>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+</br>
 
 - these are my tools you can use them they are realy helpful
 
