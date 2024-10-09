@@ -25,10 +25,10 @@ I'm a Flutter Developer 💻
 
 ## 🔭 I'm currently working on
 - multi vendor store app with admin panel
-- chat app with reponsive ui
+- chat app with reponsive UI
+- updating old projects
 
   
-- these are my tools you can use them they are realy helpful
 
 ## 💼 Technical Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
