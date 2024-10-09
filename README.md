@@ -7,7 +7,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something realy awsome
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: abdo09adham@gmail.com  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&width="20px")
+- 📫 How to reach me: abdo09adham@gmail.com
+
+<h2 align="center">
+I'm a Flutter Developer 💻
+</h2>
 
 </br>
   
