@@ -31,3 +31,9 @@ Here are some ideas to get you started:
 </a>
 
 
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
