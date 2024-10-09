@@ -9,6 +9,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter 
 - 📫 How to reach me: abdo09adham@gmail.com
 
+
+  
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="Abdelhaliem Adham | LinkedIn" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
@@ -29,11 +37,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelhaliemAdham&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="Abdelhaliem Adham | LinkedIn" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
