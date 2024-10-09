@@ -22,14 +22,12 @@ Here are some ideas to get you started:
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhaliemAdham&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelhaliemAdham&show_icons=true)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AbdelhaliemAdham" />
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelhaliemAdham&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdelhaliemAdham&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
