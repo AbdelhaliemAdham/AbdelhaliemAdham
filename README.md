@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on something realy awsome
 - 🌱 I’m currently learning Flutter 
-- 📫 How to reach me: abdo09adham@gmail.com
+- 📫 How to reach me: abdo09adham@gmail.com  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
   
@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="Abdelhaliem Adham | LinkedIn" width="21px"/></a>
 </br>
+
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+- these are my tools you can use them they are realy helpful
+
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
