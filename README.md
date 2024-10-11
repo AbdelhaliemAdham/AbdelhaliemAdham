@@ -1,40 +1,43 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150"/>
 </div>
 
 <div align="center">
-<img  src="https://komarev.com/ghpvc/?username=AbdelhaliemAdham&style=flat-square&color=blue" alt="Abdelhaliem profile View"/>
+<img  src="https://komarev.com/ghpvc/?username=AbdelhaliemAdham&style=flat-square&color=blue" alt="Abdelhaliem profile View "width="150"/>
 </div>
 
-### :woman_technologist: About Me :
-- :telescope: I’m working as a Flutter developer  ble to build cross plateform mobile applications.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelhaliem Adham
+=========================================================================================================================================
 
-- :seedling: looking for good oppotinity to improve my skills
+Flutter Developer
+-----------------
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+I have been learning telecommunication technology for 4 years, but I switched career and found my passion in developing mobile apps
 
-- 🪒 worked in many projects expample bus reservation app built by Flutter , spring boot 🚌 & ZoomClone App & Youtube Clone & Tiktok Clone & Reddit Clone & Multi_vendor_e_coomerce_app  you can see them in my github account
+* 🌍  I'm based in Fayoum, Egypt
+* ✉️  You can contact me at [abdo09adham@gmail.com](mailto:abdo09adham@gmail.com)
+* 🚀  I'm currently working on [Multi-vendor -app with admin panel](http://https://github.com/AbdelhaliemAdham?tab=repositories)
+* 🧠  I'm learning python
+* ⚡  also, I support Zamalek football club
+
+### Skills
+
+<p align="left">
+<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+</p>
+
+
+
   
-### 🤝 Connect with me:
+### 🤝 Connect info
 
-<a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="AbdelhaliemAdham | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/abdelhaliem_adham_afandy/profilecard/?igsh=MXZ4eTZyZ2dpN3M0Mg=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="AbdelhaliemAdham | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/abdelhaliem-elafandy-4485ab20b/"><img align="left" src="https://raw.githubusercontent.com/AbdelhaliemAdham/AbdelhaliemAdham/main/images/linkedin.svg" alt="AbdelhaliemAdham | LinkedIn" width="30px"/></a>
+<a href="https://www.instagram.com/abdelhaliem_adham_afandy/profilecard/?igsh=MXZ4eTZyZ2dpN3M0Mg=="><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="AbdelhaliemAdham | Instagram" width="30px"/></a>
 </br>
 
 
 
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width= "60" height="60"/>&nbsp;
-</div>
-  
+ 
 
 ## 💼 Technical Skills
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
