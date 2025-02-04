@@ -9,16 +9,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdelhaliem Adham
 =========================================================================================================================================
 
-Flutter Developer
+Front-End Developer
 -----------------
 
 I have been learning telecommunication technology for 4 years, but I switched career and found my passion in developing mobile apps
 
-* 🌍  I'm based in Fayoum, Egypt
-* ✉️  You can contact me at [abdo09adham@gmail.com](mailto:abdo09adham@gmail.com)
-* 🚀  I'm currently working on [Multi-vendor -app with admin panel](http://https://github.com/AbdelhaliemAdham?tab=repositories)
-* 🧠  I'm learning python
-* ⚡  also, I support Zamalek football club
+* 🌍  I'm based in Cairo, Egypt
+* ✉️  You can contact me at [abdelhaliemadham@gmail.com](mailto:abdelhaliem@gmail.com)
+* 🚀  I'm currently working on [chat-app](http://https://github.com/AbdelhaliemAdham/chat-app)
+* 🧠  I'm learning node js
 
 ### Skills
 
@@ -40,20 +39,16 @@ I have been learning telecommunication technology for 4 years, but I switched ca
  
 
 ## 💼 Technical Skills
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
+- JavaScript
+- React js
+- NEXT JS
+- FLUTTER
+- Familiar with Node JS
+- Html
+- CSS
+- Dart
+- Express JS
+- Git && Github
 
 
 ## 📈 GitHub Stats 
